@@ -7,6 +7,7 @@ Delhi
 Mumbai
 Ranchi
 Patna
+Gandhinagar
 Raipur
 Chandigarh
 Lukhnow
